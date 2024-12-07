@@ -4,17 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # Advanced-Navigation-and-Route-Management-in-Flutter
 
 ## How to install the code ?
@@ -31,3 +20,11 @@ git clone https://github.com/FranklinJaya2006/Advanced-Navigation-and-Route-Mana
 1. You have to input number for how much you want to generate new screen, after tap the Elevatedbutton you can't back to the input generator screen again.
 2. After that, you can see list of screen that you've been generate.
 3. you can try to click the generated screen, then you will brought by the number of the screen, each screen have an unique number in their AppBar.
+
+## Approach
+
+to do this assignment, i read the requirements and Additional notes. From requirements and notes, i know something that we need for finish this assignment. First, we need to add provider, animations, and get, then i have to search the package from safari for the update version from the package. Second, i had to make error handling for handling if something happen. Third, to finish "For example, allow users to input a number, and then generate that number of new screens with unique content" i can use text field for the user input and for the generated screen i use widget to do it.
+
+## Chalengges 
+
+For this assignment, i get a chalengge how to use provider, and get dependency. Because i haven't heard the flutter package before, so i used provider for global state to count the screen and i used get package for set route for my apps, my another challengges is i don't know how to make the error handling. For the error handling i used get package to handle the error if something happen to my apps.
