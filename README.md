@@ -1,4 +1,4 @@
-# assignmentnavigation
+# Assignmentnavigationandroutes
 
 A new Flutter project.
 
@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 1. you have to git clone the repository
 ``` cmd
-git clone 
+git clone https://github.com/FranklinJaya2006/Advanced-Navigation-and-Route-Management-in-Flutter.git
 ```
 2. open the directory you've been installed in Visual Studio Code
 3. run in the terminal flutter clean. then, flutter pub get.
