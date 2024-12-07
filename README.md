@@ -25,3 +25,9 @@ git clone https://github.com/FranklinJaya2006/Advanced-Navigation-and-Route-Mana
 ```
 2. open the directory you've been installed in Visual Studio Code
 3. run in the terminal flutter clean. then, flutter pub get.
+
+## How to use this application ?
+
+1. You have to input number for how much you want to generate new screen, after tap the Elevatedbutton you can't back to the input generator screen again.
+2. After that, you can see list of screen that you've been generate.
+3. you can try to click the generated screen, then you will brought by the number of the screen, each screen have an unique number in their AppBar.
